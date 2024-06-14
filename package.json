@@ -1,7 +1,8 @@
 {
-  "name": "navbar",
+  "name": "first_navbar_js",
   "version": "1.0.0",
   "description": "an npm package to create a simple navbar",
+  "type":"module",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
